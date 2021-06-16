@@ -10,9 +10,9 @@ Camera input based digit recognition. (Early dev)
 - [ ] Refactoring
 
 Neural network code : 
-`github.com/wimacod/Feed-Forward-Neural-Network`
+`github.com/alelouis/Feed-Forward-Neural-Network`
 
 PC drawing recognition : 
-`github.com/wimacod/Draw-n-Guess`
+`github.com/alelouis/Draw-n-Guess`
 
 Built with OpenCV `opencv.org`.
